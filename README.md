@@ -32,13 +32,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## Connect with Me 🌐
 
-If you like this project, follow me on GitHub for more. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
-
-[Source 0](https://dev.to/silentlad/how-to-write-beautiful-and-meaningful-readme-md-jp3)
-[Source 2](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-[Source 3](https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09)
-[Source 4](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
-[Source 5](https://github.com/eli64s/README-AI)
-[Source 6](https://markdown.land/readme-md)
-[Source 9](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/markdown/)
-[Source 10](https://www.codecademy.com/article/markdown-and-readme-md-files)
+If you like this project, follow me on GitHub for more. You can also connect with me on [LinkedIn](linkedin.com/in/alireza-mahdizadeh-275215292).
