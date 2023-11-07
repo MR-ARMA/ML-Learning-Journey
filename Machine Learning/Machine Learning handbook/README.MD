@@ -12,7 +12,6 @@ This repository contains:
 These resources are designed to be accessible and valuable for both English and Persian speakers, making machine learning more accessible to a wider audience.
 
 
-
 ## Contributing
 
 Contributions to this repository are welcome. If you've learned something new from Professor White's books and would like to share it with others, consider creating a new Jupyter notebook and submitting a pull request.
