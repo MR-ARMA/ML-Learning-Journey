@@ -28,4 +28,3 @@ If you have any questions or suggestions, please feel free to open an issue in t
 
 A special thanks to Professor Martha White for her invaluable contributions to the field of machine learning. Her work is a source of inspiration and learning for many.
 
-This README file was inspired by the Best-README-Template on GitHub.
