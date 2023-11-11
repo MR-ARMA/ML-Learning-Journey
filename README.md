@@ -22,14 +22,8 @@ To use this repository, follow these steps:
 
 Remember, you'll need to have Jupyter Notebook installed to open the `.ipynb` files. If you haven't installed it yet, you can do so by following the instructions [here](https://jupyter.org/install.html).
 
-## Contributing 💡
-
-Your contributions are always welcome! If you have suggestions for improvements or additions to the materials, please feel free to open an issue or submit a pull request. Before contributing, please read the [Contributing Guide](CONTRIBUTING.md).
 
 ## License 📄
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 
-## Connect with Me 🌐
-
-If you like this project, follow me on GitHub for more. You can also connect with me on [LinkedIn](linkedin.com/in/alireza-mahdizadeh-275215292).
