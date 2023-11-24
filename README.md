@@ -1,5 +1,7 @@
 # Welcome to my Machine Learning Learning Repository! 🎉
 
+![ML](./Machine%20Learning/Numpy/pictures/machine-learning-1.jpg)
+
 This repository is a collection of the concepts and techniques I learn in Machine Learning, organized into separate Jupyter Notebook files. Whether you're a fellow learner or just curious, feel free to explore the materials and learn along with me!
 
 ## Contents 📚
