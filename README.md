@@ -1,4 +1,4 @@
-# Welcome to my Machine Learning Learning Repository! 🎉
+# Welcome to my Machine Learning Learning 🎉
 
 ![ML](./Machine%20Learning/Numpy/pictures/machine-learning-1.jpg)
 
