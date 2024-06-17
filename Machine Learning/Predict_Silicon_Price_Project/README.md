@@ -1,23 +1,26 @@
+# Tech Stocks vs. Silicon: A Silicon Valley Saga
 
+## Project Synopsis
 
-# Tech Stocks vs. Silicon: Decoding the Complexities of Market Dynamics
+Venturing into the bustling world of Silicon Valley, we set out on a digital treasure hunt to unravel the mysterious ties between the stock market gyrations of tech titans and the volatile price swings of silicon, the lifeblood of the tech industry. From the grandeur of Apple's "AAPL" to Oracle's "ORCL," we navigate through the labyrinth of silicon prices, converting them from USD to EUR and back again, all while keeping an eye on the precious metals market to see if they're playing a secret role in this dance.
 
-## Project Overview
+## Our Approach
 
-In the heart of the tech industry, where innovation meets economics, we embark on a mission to decipher the intricate relationships between the stock prices of leading technology companies and the fluctuating price of silicon, the cornerstone of modern technology. Our journey spans from the iconic "AAPL" to the influential "ORCL", navigating through the conversion of silicon prices from dollars to euros and vice versa. Adding a new layer to our investigation, we integrate metal prices into our analysis to explore potential correlations and influence on both silicon and tech stock prices.
+Equipped with Python, pandas, and the visual wizardry of seaborn, we embark on a data safari, collecting historical stock data from a select group of tech giants. We plot their closing prices over time, like detectives looking for clues that might connect them to silicon prices. To add another layer to our detective work, we also dive into the world of silicon pricing, displaying charts in both USD and EUR formats, and throw in metal prices for good measure, hoping to uncover hidden patterns that might influence silicon and tech stock prices.
 
-## Methodology
+![Tech Stock Prices](./picture/Stock%20Prices.png)
+![Metal Prices](./picture/Metal%20Prices.png)
+![Silicon Price](./picture/Silicon%20Price.png)
 
-Armed with Python, pandas, and the aesthetic power of seaborn, we gather historical stock data for a curated list of tech behemoths. We visualize their closing prices over time, searching for trends or anomalies that may hint at a connection with silicon prices. To enrich our analysis, we delve into the dynamics of silicon pricing, presenting both dollar and euro price charts alongside their tech stock counterparts. Furthermore, we introduce metal prices into our framework, aiming to uncover any underlying patterns or influences on silicon and tech stock prices.
+## What We Found
 
-<img src="./picture/Stock%20Prices.png" alt="Stock Prices" width="600" height="300">
-<img src="./picture/Metal Prices.png" alt="Metal Price" width="600" height="300">
-<img src="./picture/Silicon%20Price.png" alt="Silicon Price" width="600" height="300">
+After dusting off our machine learning models, including the likes of Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs), and incorporating metal prices into our analysis, we were left with a puzzling outcome: no clear link could be drawn between tech stocks and silicon prices, even with the addition of metal prices. It seems the relationship between these elements is as enigmatic as trying to explain quantum physics to a cat.
 
-## The Results
+## Final Thoughts
 
-Utilizing a variety of machine learning models, including deep learning architectures such as Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs), we incorporate the metal prices feature into our analysis. Despite the complexity and depth of our models, the results reveal a nuanced picture: no significant correlation emerges between tech stocks and silicon prices, nor does the introduction of metal prices simplify the relationship. The intricate dance between these elements remains as elusive as ever, suggesting that the interplay of factors influencing silicon prices and tech stock prices is multifaceted and complex.
+Our quest to find a straightforward relationship between tech stocks and silicon prices, enhanced by the inclusion of metal prices, ended up revealing just how complicated the financial markets can be. The lack of a simple, direct correlation highlights the intricate web of factors that influence silicon prices and tech stock prices, reminding us that sometimes, the answers aren't as straightforward as they seem. As we continue to peel back layers of this complex onion, the search for a definitive connection between these elements remains a captivating mystery, ripe for further exploration.
 
-## Conclusion
+# The project failed
+**the reason:**
 
-Our endeavor to uncover a harmonious relationship between tech stocks and silicon prices, enriched by the inclusion of metal prices, concludes with a nuanced understanding of the market dynamics. The absence of a clear, direct correlation underscores the complexity of financial markets and the challenges in isolating causal relationships among seemingly interconnected variables. As we continue to dissect the vast landscape of technological and economic indicators, the quest for a definitive link between these elements persists, offering a rich tapestry of possibilities for future exploration.
+Failure to pay attention to other influential angles on my theory
